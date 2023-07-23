@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![stats-preview-card-component](https://github.com/aomsk/stats-preview-card-component/blob/main/src/assets/stats-%20preview-screenshot.png?raw=true)
 
 ### Links
 
