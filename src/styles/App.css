@@ -1,0 +1,7 @@
+.bg-image {
+  background-image: url("../assets/image-header-mobile.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: fixed;
+  filter: opacity(0.3) drop-shadow(0 0 hsl(277, 64%, 61%));
+}
