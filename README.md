@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-tailwind-css-GCExIXuQZk)
+- Live Site URL: [Stats preview card component](https://stats-preview-card-component-aomsk.vercel.app/)
 
 ## My process
 
